@@ -1,1 +1,2 @@
-# nwb_graph
+# neural_decoding_algorithm
+
