@@ -15,6 +15,7 @@ from .car import car
 .
 .
 ```
+Then, you have 'car'.
 
 
 ## Demo
