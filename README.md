@@ -7,6 +7,16 @@ Neural Analytic Algorithm (NAA) is a set of tools that is designed for "analytic
 Python is a widely used language. So we build a set of python-function. 
 Just copy and paste at the folder same as you python code.
 
+For example, I want use 'car'
+
+```python
+from .car import car
+.
+.
+.
+```
+
+
 ## Demo
 - Common Average reference (CAR)
 ![](https://lh4.googleusercontent.com/imFx8xTZiOx-cmFbV50i8NubrDtSxEgZWxyxaWyyftO_CgNpQDpnYB4KIpmIe0gPFbw8OmgmemvTWX8JEuWYO8Nwg_ty2JnZyHp1zkYxa2qahND-rFehBspuwyLCJRes0H1s66uB)
