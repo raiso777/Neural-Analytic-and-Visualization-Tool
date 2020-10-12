@@ -3,6 +3,9 @@
 ## Introduction
 Neural Analytic Algorithm (NAA) is a set of tools that is designed for "analytic" and "visualization". Beacuse we don't know what Matlab's operation or other nonopen-code tool, we build our toolbox.
 
+## Environment
+- Anaconda, Python 3.8.5
+
 ## Install
 Python is a widely used language. So we build a set of python-function. 
 Just copy and paste at the folder same as you python code.
@@ -34,3 +37,14 @@ Then, you have 'car'.
 - Topograph Draw
 
 ![](https://i.imgur.com/eNcGFJ9.png)
+
+## Definition
+output = car(intput)
+- input and output is two dim numpy array, channel_number x Time_bin_number.
+
+output = ica(input, n)
+- input is two dim numpy array, channel_number x Time_bin_number.
+- output is two dim numpy array, n x Time_bin_number.
+- n is the number of independent signal channel at output. If no assigmant n = channel_number
+
+
