@@ -1,7 +1,7 @@
-# Neural Analytic Algorithm
+# Neural Analytic Tool
 
 ## Goal
-Neural Analytic Algorithm (NAA) is a set of tools that is designed for "analytic" and "visualization". Beacuse we don't know what Matlab's operation or other nonopen-source tool, we build our toolbox.
+Neural Analytic Algorithm (NAT) is a set of tools that is designed for "analytic" and "visualization". Beacuse we don't know what Matlab's operation or other nonopen-source tool, we build our toolbox.
 
 ## Environment
 - Anaconda, Python 3.8.5
