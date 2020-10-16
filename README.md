@@ -1,5 +1,4 @@
-# Neural Analytic Tool Visualization
-
+# Neural-Analytic-and-Visualization-Tool
 ## Goal
 Neural Analytic Algorithm (NAT-v) is a set of tools that is designed for "analytic" and "visualization". Beacuse we don't know what Matlab's operation or other nonopen-source tool, we build our toolbox.
 
